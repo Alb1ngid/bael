@@ -30,3 +30,4 @@ print(spiderman.name1())  # Вывод: SpiderMan
 print(spiderman.point())  # Вывод: 200
 print(str(spiderman))  # Вывод: Spider Shoot webs 100
 print(len(spiderman))  # Вывод: Длина строки
+
